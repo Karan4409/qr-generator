@@ -16,7 +16,7 @@ See live sample: https://qr-generator-8yap.onrender.com/
 
 * Clone the repository:
 ```bash
- git clone https://github.com/KPkm25/qr-generator
+ git clone https://github.com/Karan4409/qr-generator
  ```
 
 Navigate to the project directory:
